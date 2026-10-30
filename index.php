@@ -1,63 +1,56 @@
+<?php
+include 'connection.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Login Page</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background: #f4f4f4;
-      }
-      .login-container {
-        width: 300px;
-        margin: 100px auto;
-        padding: 20px;
-        background: #fff;
-        border-radius: 5px;
-        box-shadow: 0 0 10px #ccc;
-      }
-      input[type="text"],
-      input[type="password"] {
-        width: 100%;
-        padding: 10px;
-        margin: 8px 0;
-        box-sizing: border-box;
-      }
-      input[type="submit"] {
-        width: 100%;
-        padding: 10px;
-        background: #007bff;
-        color: #fff;
-        border: none;
-        border-radius: 3px;
-        cursor: pointer;
-      }
-      input[type="submit"]:hover {
-        background: #0056b3;
-      }
-    </style>
-  </head>
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTB Events - Student Portal</title>
+    <link rel="stylesheet" type="text/css" href="includes/styles.css">
+</head>
+<body>
     <div class="login-container">
-      <h2>Login</h2>
-      <?php if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        $username = isset($_POST['username']) ? htmlspecialchars($_POST['username']) : '';
-        $password = isset($_POST['password']) ? htmlspecialchars($_POST['password']) : '';
-        if ($username && $password) {
-          if ($username === 'admin' && $password === 'password') {
-            echo '<p style="color:green;">Login successful!</p>';
-          } else {
-            echo '<p style="color:red;">Invalid username or password.</p>';
-          }
-        }
-      } ?>
-      <form action="index.php" method="POST">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required />
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required />
-        <input type="submit" value="Login" />
-      </form>
+        <!-- UTB Logo Section -->
+               
+        <div class="utb-logo">
+            <img src="sidebar/utb logo.png" alt="UTB Logo" class="logo-image">
+            <div class="logo-text">
+                <div class="logo-main">UTB EVENTS</div>
+                <div class="logo-subtitle">
+                    <div class="motto">BERIMAN • BERINOVASI</div>
+                    <div class="established">Since 1986 • TEKNOLOGI BRUNEI</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Login Form -->
+        <div class="login-form">
+            <form name="form" action="login.php" onsubmit="return isvalid()" method="POST">
+                <div class="form-group">
+                    <label for="user">Email</label>
+                    <input type="email" id="user" name="user" placeholder="Enter your email address">
+                </div>
+                
+                <div class="form-group">
+                    <label for="pass">Password</label>
+                    <input type="password" id="pass" name="pass" placeholder="Enter your password">
+                </div>
+
+                <button type="submit" class="login-btn" name="submit">Login to UTB Events</button>
+            </form>
+            
+            <!-- SIGN UP LINK ADDED HERE -->
+            <div style="text-align: center; margin-top: 20px; color: #666;">
+                Don't have an account? <a href="signup.php" style="color: #11676a; text-decoration: none; font-weight: bold;">Sign up here</a>
+            </div>
+            <div style="text-align: center; margin-top: 10px; color: #666;">
+    <a href="forgot_password.php" style="color: #11676a; text-decoration: none; font-weight: bold;">Forgot Password?</a>
+</div>
+            
+        </div>
     </div>
-  </body>
+
+    <script src="includes/site.js"></script>
+</body>
 </html>

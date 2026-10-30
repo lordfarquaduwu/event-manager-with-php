@@ -1,0 +1,615 @@
+2025-10-20T15:29:36+02:00 | --- REGISTER POST START ---
+2025-10-20T15:29:36+02:00 | POST: {"action":"register","event_id":"1"}
+2025-10-20T15:29:36+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:29:36+02:00 | CREATE TABLE OK
+2025-10-20T15:29:36+02:00 | INSERT OK for event 1 user rahimi@gmail.com
+2025-10-20T15:30:38+02:00 | --- REGISTER POST START ---
+2025-10-20T15:30:38+02:00 | POST: {"action":"register","event_id":"1"}
+2025-10-20T15:30:38+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:30:38+02:00 | CREATE TABLE OK
+2025-10-20T15:30:38+02:00 | Already registered for event 1 by rahimi@gmail.com
+2025-10-20T15:31:24+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:24+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:31:24+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:24+02:00 | CREATE TABLE OK
+2025-10-20T15:31:24+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:31:29+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:29+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:31:29+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:29+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:31:29+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:31:36+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:36+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:31:36+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:36+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:31:36+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:31:41+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:41+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:31:41+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:41+02:00 | CREATE TABLE OK
+2025-10-20T15:31:41+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:31:45+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:45+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:31:45+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:45+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:31:45+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:31:55+02:00 | --- REGISTER POST START ---
+2025-10-20T15:31:55+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:31:55+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:31:55+02:00 | CREATE TABLE OK
+2025-10-20T15:31:55+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:32:13+02:00 | --- REGISTER POST START ---
+2025-10-20T15:32:13+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:32:13+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:32:13+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:32:13+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:32:43+02:00 | --- REGISTER POST START ---
+2025-10-20T15:32:43+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:32:43+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:32:43+02:00 | CREATE TABLE OK
+2025-10-20T15:32:43+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:32:45+02:00 | --- REGISTER POST START ---
+2025-10-20T15:32:45+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:32:45+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:32:45+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:32:45+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:50+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:50+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:50+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:50+02:00 | CREATE TABLE OK
+2025-10-20T15:35:50+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:52+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:52+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:52+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:52+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:52+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:53+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:53+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:53+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:53+02:00 | CREATE TABLE OK
+2025-10-20T15:35:53+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:53+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:53+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:53+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:53+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:53+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:54+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:54+02:00 | CREATE TABLE OK
+2025-10-20T15:35:54+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:54+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:54+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:54+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:54+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:54+02:00 | CREATE TABLE OK
+2025-10-20T15:35:54+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:55+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:55+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:55+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:55+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:55+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:55+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:55+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:55+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:55+02:00 | CREATE TABLE OK
+2025-10-20T15:35:55+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:56+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:56+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:56+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:56+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:56+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:56+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:56+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:56+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:56+02:00 | CREATE TABLE OK
+2025-10-20T15:35:56+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:57+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:57+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:57+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:57+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:57+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:57+02:00 | CREATE TABLE OK
+2025-10-20T15:35:57+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:57+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:57+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:57+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:57+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:57+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:57+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:57+02:00 | CREATE TABLE OK
+2025-10-20T15:35:57+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:58+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:58+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:58+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:58+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:58+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:58+02:00 | CREATE TABLE OK
+2025-10-20T15:35:58+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:58+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:58+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:58+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:58+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:58+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:58+02:00 | CREATE TABLE OK
+2025-10-20T15:35:58+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:58+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:58+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:58+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:58+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:59+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:59+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:59+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:59+02:00 | CREATE TABLE OK
+2025-10-20T15:35:59+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:59+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:59+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:35:59+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:59+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:35:59+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:35:59+02:00 | --- REGISTER POST START ---
+2025-10-20T15:35:59+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:35:59+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:35:59+02:00 | CREATE TABLE OK
+2025-10-20T15:35:59+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:00+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:00+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:00+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:00+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:00+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:00+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:00+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:00+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:00+02:00 | CREATE TABLE OK
+2025-10-20T15:36:00+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:01+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:01+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:01+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:01+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:01+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:02+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:02+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:02+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:02+02:00 | CREATE TABLE OK
+2025-10-20T15:36:02+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:02+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:02+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:02+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:02+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:02+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:02+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:02+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:02+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:02+02:00 | CREATE TABLE OK
+2025-10-20T15:36:02+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:03+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:03+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:03+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:03+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:03+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:03+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:03+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:03+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:03+02:00 | CREATE TABLE OK
+2025-10-20T15:36:03+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:03+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:03+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:03+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:03+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:03+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:04+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:04+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:04+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:04+02:00 | CREATE TABLE OK
+2025-10-20T15:36:04+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:05+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:05+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:05+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:05+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:05+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:05+02:00 | CREATE TABLE OK
+2025-10-20T15:36:05+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:05+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:05+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:05+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:05+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:05+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:05+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:05+02:00 | CREATE TABLE OK
+2025-10-20T15:36:05+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:06+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:06+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:36:06+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:06+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:36:06+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:36:06+02:00 | --- REGISTER POST START ---
+2025-10-20T15:36:06+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:36:06+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:36:06+02:00 | CREATE TABLE OK
+2025-10-20T15:36:06+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:06+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:06+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:06+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:06+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:06+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:49+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:49+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:49+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:49+02:00 | CREATE TABLE OK
+2025-10-20T15:37:49+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:51+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:51+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:51+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:51+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:51+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:52+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:52+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:52+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:52+02:00 | CREATE TABLE OK
+2025-10-20T15:37:52+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:53+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:53+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:53+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:53+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:53+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:53+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:53+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:53+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:53+02:00 | CREATE TABLE OK
+2025-10-20T15:37:53+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:54+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:54+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:54+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:54+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:54+02:00 | CREATE TABLE OK
+2025-10-20T15:37:54+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:55+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:55+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:55+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:55+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:55+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:56+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:56+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:56+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:56+02:00 | CREATE TABLE OK
+2025-10-20T15:37:56+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:56+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:56+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:37:56+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:56+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:37:56+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:37:56+02:00 | --- REGISTER POST START ---
+2025-10-20T15:37:56+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:37:56+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:37:56+02:00 | CREATE TABLE OK
+2025-10-20T15:37:56+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:38:12+02:00 | --- REGISTER POST START ---
+2025-10-20T15:38:12+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:38:12+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:38:12+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:38:12+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:38:27+02:00 | --- REGISTER POST START ---
+2025-10-20T15:38:27+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:38:27+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:38:27+02:00 | CREATE TABLE OK
+2025-10-20T15:38:27+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:40:43+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:43+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:40:43+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:43+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:40:43+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:40:44+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:44+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:40:44+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:44+02:00 | CREATE TABLE OK
+2025-10-20T15:40:44+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T15:40:46+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:46+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T15:40:46+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:46+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T15:40:46+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:48+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:40:48+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:48+02:00 | CREATE TABLE OK
+2025-10-20T15:40:48+02:00 | INSERT OK for event 5 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:48+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:40:48+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:48+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:48+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:40:48+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:48+02:00 | CREATE TABLE OK
+2025-10-20T15:40:48+02:00 | INSERT OK for event 5 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:48+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:40:48+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:48+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:40:48+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:40:49+02:00 | --- REGISTER POST START ---
+2025-10-20T15:40:49+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:40:49+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:40:49+02:00 | CREATE TABLE OK
+2025-10-20T15:40:49+02:00 | INSERT OK for event 5 user rahimi@gmail.com
+2025-10-20T15:41:54+02:00 | --- REGISTER POST START ---
+2025-10-20T15:41:54+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:41:54+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:41:54+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:41:54+02:00 | UNREGISTER prepare failed: Unknown column 'active' in 'field list'
+2025-10-20T15:41:57+02:00 | --- REGISTER POST START ---
+2025-10-20T15:41:57+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:41:57+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:41:57+02:00 | CREATE TABLE OK
+2025-10-20T15:41:57+02:00 | INSERT prepare failed: Unknown column 'active' in 'field list'
+2025-10-20T15:43:50+02:00 | --- REGISTER POST START ---
+2025-10-20T15:43:50+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:43:50+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:43:50+02:00 | CREATE TABLE OK
+2025-10-20T15:43:50+02:00 | INSERT prepare failed: Unknown column 'active' in 'field list'
+2025-10-20T15:44:00+02:00 | --- REGISTER POST START ---
+2025-10-20T15:44:00+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:44:00+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:44:00+02:00 | CREATE TABLE OK
+2025-10-20T15:44:00+02:00 | INSERT prepare failed: Unknown column 'active' in 'field list'
+2025-10-20T15:45:21+02:00 | --- REGISTER POST START ---
+2025-10-20T15:45:21+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:45:21+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:45:21+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:45:21+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:45:22+02:00 | --- REGISTER POST START ---
+2025-10-20T15:45:22+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:45:22+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:45:22+02:00 | CREATE TABLE OK
+2025-10-20T15:45:22+02:00 | RE-activated registration for event 5 user rahimi@gmail.com
+2025-10-20T15:45:23+02:00 | --- REGISTER POST START ---
+2025-10-20T15:45:23+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:45:23+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:45:23+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:45:23+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:45:31+02:00 | --- REGISTER POST START ---
+2025-10-20T15:45:31+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:45:31+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:45:31+02:00 | CREATE TABLE OK
+2025-10-20T15:45:31+02:00 | RE-activated registration for event 5 user rahimi@gmail.com
+2025-10-20T15:45:35+02:00 | --- REGISTER POST START ---
+2025-10-20T15:45:35+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:45:35+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:45:35+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:45:35+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:46:22+02:00 | --- REGISTER POST START ---
+2025-10-20T15:46:22+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:46:22+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:46:22+02:00 | CREATE TABLE OK
+2025-10-20T15:46:22+02:00 | RE-activated registration for event 5 user rahimi@gmail.com
+2025-10-20T15:46:23+02:00 | --- REGISTER POST START ---
+2025-10-20T15:46:23+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:46:23+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:46:23+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:46:23+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:46:24+02:00 | --- REGISTER POST START ---
+2025-10-20T15:46:24+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:46:24+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:46:24+02:00 | CREATE TABLE OK
+2025-10-20T15:46:24+02:00 | RE-activated registration for event 5 user rahimi@gmail.com
+2025-10-20T15:46:29+02:00 | --- REGISTER POST START ---
+2025-10-20T15:46:29+02:00 | POST: {"action":"unregister","event_id":"5"}
+2025-10-20T15:46:29+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:46:29+02:00 | UNREGISTER attempt for event 5 user rahimi@gmail.com
+2025-10-20T15:46:29+02:00 | UNREGISTER OK for event 5 user rahimi@gmail.com
+2025-10-20T15:51:33+02:00 | --- REGISTER POST START ---
+2025-10-20T15:51:33+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:51:33+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:51:33+02:00 | CREATE TABLE OK
+2025-10-20T15:51:33+02:00 | INSERT prepare failed: Unknown column 'active' in 'field list'
+2025-10-20T15:53:14+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:14+02:00 | POST: {"action":"register","event_id":"2"}
+2025-10-20T15:53:14+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:14+02:00 | CREATE TABLE OK
+2025-10-20T15:53:14+02:00 | INSERT OK for event 2 user rahimi@gmail.com
+2025-10-20T15:53:14+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:14+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:53:14+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:14+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:53:14+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:53:15+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:15+02:00 | POST: {"action":"register","event_id":"2"}
+2025-10-20T15:53:15+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:15+02:00 | CREATE TABLE OK
+2025-10-20T15:53:15+02:00 | RE-activated registration for event 2 user rahimi@gmail.com
+2025-10-20T15:53:25+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:25+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:53:25+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:25+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:53:25+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:53:48+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:48+02:00 | POST: {"action":"register","event_id":"2"}
+2025-10-20T15:53:48+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:48+02:00 | CREATE TABLE OK
+2025-10-20T15:53:48+02:00 | RE-activated registration for event 2 user rahimi@gmail.com
+2025-10-20T15:53:51+02:00 | --- REGISTER POST START ---
+2025-10-20T15:53:51+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:53:51+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:53:51+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:53:51+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:54:22+02:00 | --- REGISTER POST START ---
+2025-10-20T15:54:22+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:54:22+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:54:22+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:54:22+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:54:26+02:00 | --- REGISTER POST START ---
+2025-10-20T15:54:26+02:00 | POST: {"action":"register","event_id":"2"}
+2025-10-20T15:54:26+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:54:26+02:00 | CREATE TABLE OK
+2025-10-20T15:54:26+02:00 | INSERT OK for event 2 user rahimi@gmail.com
+2025-10-20T15:54:29+02:00 | --- REGISTER POST START ---
+2025-10-20T15:54:29+02:00 | POST: {"action":"unregister","event_id":"2"}
+2025-10-20T15:54:29+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:54:29+02:00 | UNREGISTER attempt for event 2 user rahimi@gmail.com
+2025-10-20T15:54:29+02:00 | UNREGISTER OK for event 2 user rahimi@gmail.com
+2025-10-20T15:54:35+02:00 | --- REGISTER POST START ---
+2025-10-20T15:54:35+02:00 | POST: {"action":"register","event_id":"2"}
+2025-10-20T15:54:35+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:54:35+02:00 | CREATE TABLE OK
+2025-10-20T15:54:35+02:00 | INSERT OK for event 2 user rahimi@gmail.com
+2025-10-20T15:55:04+02:00 | --- REGISTER POST START ---
+2025-10-20T15:55:04+02:00 | POST: {"action":"register","event_id":"3"}
+2025-10-20T15:55:04+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:55:04+02:00 | CREATE TABLE OK
+2025-10-20T15:55:04+02:00 | INSERT OK for event 3 user rahimi@gmail.com
+2025-10-20T15:55:06+02:00 | --- REGISTER POST START ---
+2025-10-20T15:55:06+02:00 | POST: {"action":"register","event_id":"5"}
+2025-10-20T15:55:06+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:55:06+02:00 | CREATE TABLE OK
+2025-10-20T15:55:06+02:00 | INSERT OK for event 5 user rahimi@gmail.com
+2025-10-20T15:55:07+02:00 | --- REGISTER POST START ---
+2025-10-20T15:55:07+02:00 | POST: {"action":"register","event_id":"1"}
+2025-10-20T15:55:07+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:55:07+02:00 | CREATE TABLE OK
+2025-10-20T15:55:07+02:00 | INSERT OK for event 1 user rahimi@gmail.com
+2025-10-20T15:55:09+02:00 | --- REGISTER POST START ---
+2025-10-20T15:55:09+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T15:55:09+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T15:55:09+02:00 | CREATE TABLE OK
+2025-10-20T15:55:09+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-20T16:06:23+02:00 | --- REGISTER POST START ---
+2025-10-20T16:06:23+02:00 | POST: {"action":"register","event_id":"6"}
+2025-10-20T16:06:23+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T16:06:23+02:00 | CREATE TABLE OK
+2025-10-20T16:06:23+02:00 | INSERT OK for event 6 user rahimi@gmail.com
+2025-10-20T16:06:25+02:00 | --- REGISTER POST START ---
+2025-10-20T16:06:25+02:00 | POST: {"action":"register","event_id":"8"}
+2025-10-20T16:06:25+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T16:06:25+02:00 | CREATE TABLE OK
+2025-10-20T16:06:25+02:00 | INSERT OK for event 8 user rahimi@gmail.com
+2025-10-20T16:06:26+02:00 | --- REGISTER POST START ---
+2025-10-20T16:06:26+02:00 | POST: {"action":"register","event_id":"7"}
+2025-10-20T16:06:26+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T16:06:26+02:00 | CREATE TABLE OK
+2025-10-20T16:06:26+02:00 | INSERT OK for event 7 user rahimi@gmail.com
+2025-10-20T16:18:41+02:00 | --- REGISTER POST START ---
+2025-10-20T16:18:41+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-20T16:18:41+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T16:18:41+02:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-20T16:18:41+02:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-20T16:18:42+02:00 | --- REGISTER POST START ---
+2025-10-20T16:18:42+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-20T16:18:42+02:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-20T16:18:42+02:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-21T14:39:05+02:00 | --- REGISTER POST START ---
+2025-10-21T14:39:05+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-21T14:39:05+02:00 | SESSION: {"user":"admin@gmail.com","role":"admin"}
+2025-10-21T14:39:05+02:00 | INSERT OK for event 4 user admin@gmail.com
+2025-10-21T14:39:05+02:00 | --- REGISTER POST START ---
+2025-10-21T14:39:05+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-21T14:39:05+02:00 | SESSION: {"user":"admin@gmail.com","role":"admin"}
+2025-10-21T14:39:05+02:00 | UNREGISTER attempt for event 4 user admin@gmail.com
+2025-10-21T14:39:05+02:00 | UNREGISTER OK for event 4 user admin@gmail.com
+2025-10-21T15:08:17+02:00 | --- REGISTER POST START ---
+2025-10-21T15:08:17+02:00 | POST: {"action":"register","event_id":"4"}
+2025-10-21T15:08:17+02:00 | SESSION: {"user":"admin@gmail.com","role":"admin"}
+2025-10-21T15:08:17+02:00 | INSERT OK for event 4 user admin@gmail.com
+2025-10-21T15:08:18+02:00 | --- REGISTER POST START ---
+2025-10-21T15:08:18+02:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-21T15:08:18+02:00 | SESSION: {"user":"admin@gmail.com","role":"admin"}
+2025-10-21T15:08:18+02:00 | UNREGISTER attempt for event 4 user admin@gmail.com
+2025-10-21T15:08:18+02:00 | UNREGISTER OK for event 4 user admin@gmail.com
+2025-10-27T08:49:50+01:00 | --- REGISTER POST START ---
+2025-10-27T08:49:50+01:00 | POST: {"action":"register","event_id":"4"}
+2025-10-27T08:49:50+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T08:49:50+01:00 | INSERT OK for event 4 user aiman@gmail.com
+2025-10-27T08:53:58+01:00 | --- REGISTER POST START ---
+2025-10-27T08:53:58+01:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-27T08:53:58+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T08:53:58+01:00 | UNREGISTER attempt for event 4 user aiman@gmail.com
+2025-10-27T08:53:58+01:00 | UNREGISTER OK for event 4 user aiman@gmail.com
+2025-10-27T08:54:06+01:00 | --- REGISTER POST START ---
+2025-10-27T08:54:06+01:00 | POST: {"action":"register","event_id":"1"}
+2025-10-27T08:54:06+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T08:54:06+01:00 | INSERT OK for event 1 user aiman@gmail.com
+2025-10-27T08:54:09+01:00 | --- REGISTER POST START ---
+2025-10-27T08:54:09+01:00 | POST: {"action":"unregister","event_id":"1"}
+2025-10-27T08:54:09+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T08:54:09+01:00 | UNREGISTER attempt for event 1 user aiman@gmail.com
+2025-10-27T08:54:09+01:00 | UNREGISTER OK for event 1 user aiman@gmail.com
+2025-10-27T09:09:30+01:00 | --- REGISTER POST START ---
+2025-10-27T09:09:30+01:00 | POST: {"action":"register","event_id":"9"}
+2025-10-27T09:09:30+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T09:09:30+01:00 | INSERT OK for event 9 user aiman@gmail.com
+2025-10-27T09:09:42+01:00 | --- REGISTER POST START ---
+2025-10-27T09:09:42+01:00 | POST: {"action":"unregister","event_id":"9"}
+2025-10-27T09:09:42+01:00 | SESSION: {"user":"aiman@gmail.com","role":"student"}
+2025-10-27T09:09:42+01:00 | UNREGISTER attempt for event 9 user aiman@gmail.com
+2025-10-27T09:09:42+01:00 | UNREGISTER OK for event 9 user aiman@gmail.com
+2025-10-27T11:16:21+01:00 | --- REGISTER POST START ---
+2025-10-27T11:16:21+01:00 | POST: {"action":"unregister","event_id":"4"}
+2025-10-27T11:16:21+01:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-27T11:16:21+01:00 | UNREGISTER attempt for event 4 user rahimi@gmail.com
+2025-10-27T11:16:21+01:00 | UNREGISTER OK for event 4 user rahimi@gmail.com
+2025-10-27T11:16:22+01:00 | --- REGISTER POST START ---
+2025-10-27T11:16:22+01:00 | POST: {"action":"register","event_id":"4"}
+2025-10-27T11:16:22+01:00 | SESSION: {"user":"rahimi@gmail.com","role":"student"}
+2025-10-27T11:16:22+01:00 | INSERT OK for event 4 user rahimi@gmail.com
+2025-10-30T14:12:27+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:27+01:00 | POST: {"action":"register","event_id":"4"}
+2025-10-30T14:12:27+01:00 | SESSION: {"user":"salam@gmail.com","role":"student"}
+2025-10-30T14:12:27+01:00 | INSERT OK for event 4 user salam@gmail.com
+2025-10-30T14:12:32+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:32+01:00 | POST: {"action":"unregister","event_id":"6"}
+2025-10-30T14:12:32+01:00 | SESSION: {"user":"salam@gmail.com","role":"student"}
+2025-10-30T14:12:32+01:00 | UNREGISTER attempt for event 6 user salam@gmail.com
+2025-10-30T14:12:32+01:00 | UNREGISTER OK for event 6 user salam@gmail.com
+2025-10-30T14:12:33+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:33+01:00 | POST: {"action":"register","event_id":"6"}
+2025-10-30T14:12:33+01:00 | SESSION: {"user":"salam@gmail.com","role":"student"}
+2025-10-30T14:12:33+01:00 | INSERT OK for event 6 user salam@gmail.com
+2025-10-30T14:12:34+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:34+01:00 | POST: {"action":"register","event_id":"5"}
+2025-10-30T14:12:34+01:00 | SESSION: {"user":"salam@gmail.com","role":"student"}
+2025-10-30T14:12:34+01:00 | Event 5 has already passed or does not exist
+2025-10-30T14:12:39+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:39+01:00 | POST: {"action":"register","event_id":"7"}
+2025-10-30T14:12:39+01:00 | SESSION: {"user":"salam@gmail.com","role":"student"}
+2025-10-30T14:12:39+01:00 | INSERT OK for event 7 user salam@gmail.com
+2025-10-30T14:12:52+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:52+01:00 | POST: {"action":"register","event_id":"5"}
+2025-10-30T14:12:52+01:00 | SESSION: {"user":"salamm@gmail.com","role":"student"}
+2025-10-30T14:12:52+01:00 | Event 5 has already passed or does not exist
+2025-10-30T14:12:54+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:54+01:00 | POST: {"action":"register","event_id":"7"}
+2025-10-30T14:12:54+01:00 | SESSION: {"user":"salamm@gmail.com","role":"student"}
+2025-10-30T14:12:54+01:00 | INSERT OK for event 7 user salamm@gmail.com
+2025-10-30T14:12:56+01:00 | --- REGISTER POST START ---
+2025-10-30T14:12:56+01:00 | POST: {"action":"register","event_id":"6"}
+2025-10-30T14:12:56+01:00 | SESSION: {"user":"salamm@gmail.com","role":"student"}
+2025-10-30T14:12:56+01:00 | INSERT OK for event 6 user salamm@gmail.com
+2025-10-30T14:13:03+01:00 | --- REGISTER POST START ---
+2025-10-30T14:13:03+01:00 | POST: {"action":"register","event_id":"1"}
+2025-10-30T14:13:03+01:00 | SESSION: {"user":"salamm@gmail.com","role":"student"}
+2025-10-30T14:13:03+01:00 | INSERT OK for event 1 user salamm@gmail.com
