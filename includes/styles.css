@@ -1,0 +1,141 @@
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #eedcff;
+  background-image: linear-gradient(135deg, #1ebeb9 0%, #11676a 100%);
+  background-attachment: fixed;
+}
+
+/* Login Container */
+.login-container {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  max-width: 450px;
+  width: 100%;
+  text-align: center;
+}
+
+/* UTB Logo */
+.utb-logo {
+  margin-bottom: 30px;
+}
+
+.logo-image {
+  max-width: 200px;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.logo-text {
+  text-align: center;
+}
+
+.logo-main {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #11676a;
+  margin-bottom: 5px;
+}
+
+.logo-subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+.motto {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #11676a;
+}
+
+.established {
+  color: #666;
+  font-size: 0.8rem;
+}
+
+/* Form Styles */
+.login-form {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #333;
+  font-size: 14px;
+  font-weight: 500;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="date"] {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #e1e8ed;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+  background: #f8f9fa;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus {
+  outline: none;
+  border-color: #2a5298;
+  background: white;
+  box-shadow: 0 0 0 3px rgba(42, 82, 152, 0.1);
+}
+
+/* Login Button */
+.login-btn {
+  width: 100%;
+  background: linear-gradient(135deg, #11676a 0%, #11676a 100%);
+  color: white;
+  border: none;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+}
+
+.login-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(42, 82, 152, 0.3);
+}
+
+/* Responsive Design */
+@media screen and (max-width: 700px) {
+  .login-container {
+    padding: 30px 20px;
+    margin: 20px;
+  }
+
+  .logo-main {
+    font-size: 1.5rem;
+  }
+}
